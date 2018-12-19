@@ -38,10 +38,11 @@ function iLoveTheBeatles(num){
   let i = 0;
   let a = 15 - num;
   let myOpinion = []
-  while(i < a){
+  do{
     myOpinion.push("I love the Beatles!")
     i++;
   }
+  while(i < a);
   return myOpinion
 }
  iLoveTheBeatles(6)
