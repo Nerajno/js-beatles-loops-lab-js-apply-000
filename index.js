@@ -14,7 +14,7 @@ let arrInstruments = ["Guitar", "Bass Guitar","Lead Guitar","Drums"]
 theBeatlesPlay(arrMusicians, arrInstruments)
 
 //while loop
-function johnLennonFacts(arrFacts){
+function johnLennonFacts(facts){
   let i = 0;
   let rtndArr = []
  while(i< facts.length){
@@ -31,3 +31,10 @@ const facts = [
 ];
 
 johnLennonFacts(facts)
+
+
+// do - while loop 
+function iLoveTheBeatles(num){
+  let
+  while()
+}
