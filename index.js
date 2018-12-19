@@ -38,7 +38,7 @@ function iLoveTheBeatles(num){
   let i = 0;
   let a = 15 - num;
   let myOpinion = []
-  while(i < num ||){
+  while(i < num){
     myOpinion.push("I love the Beatles!")
     i++;
   }
