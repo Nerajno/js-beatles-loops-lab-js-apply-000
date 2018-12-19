@@ -34,7 +34,14 @@ johnLennonFacts(facts)
 
 
 // do - while loop
-// function iLoveTheBeatles(num){
-//   let
-//   while()
-// }
+function iLoveTheBeatles(num){
+  let i = 0;
+  let a = 15 - num;
+  let myOpinion = []
+  while(i < num ||){
+    myOpinion.push("I love the Beatles!")
+    i++;
+  }
+  return myOpinion
+}
+ iLoveTheBeatles(6)
