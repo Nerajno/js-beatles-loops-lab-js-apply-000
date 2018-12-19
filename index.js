@@ -1,5 +1,4 @@
 // add solution here
-
 //for loop
 function theBeatlesPlay(arrMusicians, arrInstruments){
   let arrSentences = [];
