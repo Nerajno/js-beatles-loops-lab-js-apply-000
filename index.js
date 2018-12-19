@@ -33,8 +33,8 @@ const facts = [
 johnLennonFacts(facts)
 
 
-// do - while loop 
-function iLoveTheBeatles(num){
-  let
-  while()
-}
+// do - while loop
+// function iLoveTheBeatles(num){
+//   let
+//   while()
+// }
