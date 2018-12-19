@@ -21,9 +21,8 @@ function johnLennonFacts(arrFacts){
    rtndArr.push(arrFacts[i]+"!!!")
    i++;
  }
- // return rtndArr
+  return rtndArr
 }
-
 const facts = [
   "He was the last Beatle to learn to drive",
   "He was never a vegetarian",
